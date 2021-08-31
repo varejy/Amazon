@@ -1,0 +1,14 @@
+.navigation{
+    display: flex;
+}
+
+.navigationItem {
+    display: flex;
+    justify-content: center !important;
+}
+
+.navigationLink {
+    color: white;
+    text-decoration: none;
+    width: 100%;
+}

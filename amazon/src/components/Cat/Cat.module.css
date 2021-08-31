@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  min-width: 160px;
+  height: 250px;
+  background-color: #282c34 !important;
+  box-shadow: 0 0 20px 0px #131313 !important;
+  margin: 17px;
+}
+
+.cardImg {
+    object-fit: inherit !important;
+    background-color: #282c34;
+    width: auto !important;
+  }
