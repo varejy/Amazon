@@ -1,5 +1,3 @@
-Test Project to Amazon
+Test Task for Amazon
 
 ### `yarn start`
-
-test
